@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Firdose Jahan K 👋
 
-<!--
-**firdose-12/firdose-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student (2025–2027)
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer | Java | Python | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- Currently pursuing Master of Computer Applications.
+- Interested in Software Development and Full Stack Development.
+- Learning Java, Python, SQL and Data Structures.
+- Building projects to improve my programming skills.
+- Always curious to learn new technologies.
+
+### Technical Skills
+- Languages: Java, Python, C
+- Web: HTML, CSS, JavaScript
+- Database: MySQL
+- Tools: VS Code, Git, GitHub
+
+### Connect With Me
+- GitHub: https://github.com/firdose-12
+
+### Goals
+🚀 Learn, Build, Improve and Grow as a Software Developer.
